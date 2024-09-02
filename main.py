@@ -7,7 +7,7 @@ auth_token = os.environ.get("AUTH_TOK")
 
 param = {
     "lat":18.461620,
-    "lon":73.850533,
+    "lon":73.850534,
     "appid":"5400830134329803de88aa3cea72a5ad",
     "cnt":4
 }
